@@ -1,0 +1,921 @@
+2025-04-03 23:30:30,318 - INFO - 模型加载成功
+2025-04-03 23:30:30,319 - INFO - 消息队列服务已启动
+2025-04-03 23:31:23,851 - INFO - 模型加载成功
+2025-04-03 23:31:23,852 - INFO - 消息队列服务已启动
+2025-04-03 23:38:05,501 - INFO - 模型加载成功
+2025-04-03 23:38:05,501 - INFO - 消息队列服务已启动
+2025-04-03 23:43:35,245 - INFO - 模型加载成功
+2025-04-03 23:43:35,246 - INFO - 消息队列服务已启动
+2025-04-03 23:44:47,301 - INFO - 模型加载成功
+2025-04-03 23:44:47,302 - INFO - 消息队列服务已启动
+2025-04-03 23:49:18,725 - ERROR - 消息入队失败: MessageTask.__init__() missing 1 required positional argument: 'event'
+2025-04-03 23:49:38,740 - ERROR - 消息入队失败: MessageTask.__init__() missing 1 required positional argument: 'event'
+2025-04-03 23:50:06,882 - ERROR - 消息入队失败: MessageTask.__init__() missing 1 required positional argument: 'event'
+2025-04-03 23:54:53,700 - INFO - 模型加载成功
+2025-04-03 23:54:53,701 - INFO - 消息队列服务已启动
+2025-04-03 23:55:54,427 - ERROR - 消息入队失败: MessageTask.__init__() missing 1 required positional argument: 'processor'
+2025-04-03 23:58:10,178 - ERROR - 模型加载失败: 'Logger' object has no attribute 'success'
+2025-04-03 23:59:09,621 - ERROR - 模型加载失败: 'Logger' object has no attribute 'success'
+2025-04-03 23:59:10,946 - ERROR - 模型加载失败: 'Logger' object has no attribute 'success'
+2025-04-03 23:59:12,265 - ERROR - 模型加载失败: 'Logger' object has no attribute 'success'
+2025-04-04 00:03:52,076 - SUCCESS - 模型加载成功 (尝试 1/3)
+2025-04-04 00:10:31,199 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute '_load_model'
+2025-04-04 00:12:34,083 - CRITICAL - 启动失败: name 'np' is not defined
+2025-04-04 00:13:31,201 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 00:15:58,192 - CRITICAL - 启动失败: 模型未初始化，请先调用initialize()
+2025-04-04 00:19:07,150 - INFO - ✅ 模型加载成功 (尝试 1/3)
+2025-04-04 00:19:07,151 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute '_lock'
+2025-04-04 00:21:19,907 - INFO - ✅ 模型加载成功 (尝试 1/3)
+2025-04-04 00:21:19,968 - INFO - 模型预热完成
+2025-04-04 00:21:19,968 - INFO - 服务启动完成
+2025-04-04 00:21:59,084 - WARNING - 图片下载失败 (尝试 1/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:22:00,574 - WARNING - 图片下载失败 (尝试 2/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:22:02,285 - WARNING - 图片下载失败 (尝试 3/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:22:32,887 - WARNING - 图片下载失败 (尝试 1/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:22:34,542 - WARNING - 图片下载失败 (尝试 2/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:22:36,098 - WARNING - 图片下载失败 (尝试 3/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:25:58,036 - INFO - 服务已关闭
+2025-04-04 00:26:05,140 - INFO - ✅ 模型加载成功 (尝试 1/3)
+2025-04-04 00:26:05,197 - INFO - 模型预热完成
+2025-04-04 00:26:05,197 - INFO - 服务启动完成
+2025-04-04 00:26:21,219 - WARNING - 图片下载失败 (尝试 1/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:26:22,224 - WARNING - 图片下载失败 (尝试 2/3): Session is closed
+2025-04-04 00:26:23,237 - WARNING - 图片下载失败 (尝试 3/3): Session is closed
+2025-04-04 00:29:18,860 - INFO - 服务已关闭
+2025-04-04 00:29:25,673 - INFO - Model loaded successfully (attempt 1/3)
+2025-04-04 00:29:25,673 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 00:33:40,068 - INFO - ✅ 模型加载成功 (尝试 1/3)
+2025-04-04 00:33:40,127 - INFO - 模型预热完成
+2025-04-04 00:33:40,127 - INFO - 服务启动完成
+2025-04-04 00:33:50,310 - WARNING - SSL错误 (尝试 1/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:33:50,825 - WARNING - SSL错误 (尝试 2/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:33:50,825 - ERROR - 预测流程异常: ValueError: Cannot set verify_mode to CERT_NONE when check_hostname is enabled.
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1122, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 1148, in create_connection
+    transport, protocol = await self._create_connection_transport(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 1181, in _create_connection_transport
+    await waiter
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\sslproto.py", line 578, in _on_handshake_complete
+    raise handshake_exc
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\sslproto.py", line 560, in _do_handshake
+    self._sslobj.do_handshake()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 916, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 143, in download_image
+    async with session.get(url) as resp:
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1400, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1369, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1126, in _wrap_create_connection
+    raise ClientConnectorSSLError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorSSLError: Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 177, in predict_image
+    image_data, img_hash = await self.download_image(url)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 161, in download_image
+    self._ssl_context.verify_mode = ssl.CERT_NONE
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 679, in verify_mode
+    super(SSLContext, SSLContext).verify_mode.__set__(self, value)
+ValueError: Cannot set verify_mode to CERT_NONE when check_hostname is enabled.
+2025-04-04 00:36:52,532 - INFO - 服务已关闭
+2025-04-04 00:36:59,873 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:36:59,955 - INFO - 模型预热完成
+2025-04-04 00:36:59,955 - INFO - 服务启动完成
+2025-04-04 00:37:11,522 - WARNING - SSL错误 (尝试 1/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:37:12,127 - WARNING - SSL错误 (尝试 2/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:37:12,689 - WARNING - SSL错误 (尝试 3/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:38:02,181 - INFO - 服务已关闭
+2025-04-04 00:38:08,549 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:38:08,632 - INFO - 模型预热完成
+2025-04-04 00:38:08,632 - INFO - 服务启动完成
+2025-04-04 00:38:18,331 - WARNING - SSL错误 (尝试 1/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:38:18,753 - WARNING - SSL错误 (尝试 2/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:38:19,296 - WARNING - SSL错误 (尝试 3/3): Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:40:37,527 - INFO - 服务已关闭
+2025-04-04 00:40:43,946 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:40:44,434 - INFO - 模型预热完成
+2025-04-04 00:40:44,434 - INFO - 服务启动完成
+2025-04-04 00:40:55,368 - WARNING - 下载尝试失败: ClientConnectorSSLError: Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:40:55,859 - WARNING - 下载尝试失败: ClientConnectorSSLError: Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:43:38,267 - INFO - 服务已关闭
+2025-04-04 00:43:44,648 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:43:44,648 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 00:45:17,500 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:45:17,557 - INFO - 模型预热完成
+2025-04-04 00:45:17,557 - INFO - 服务启动完成
+2025-04-04 00:45:27,410 - ERROR - 下载失败: Cannot connect to host multimedia.nt.qq.com.cn:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]
+2025-04-04 00:48:38,206 - INFO - 服务已关闭
+2025-04-04 00:48:45,925 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:48:45,926 - CRITICAL - 启动失败: verify_ssl, ssl_context, fingerprint and ssl parameters are mutually exclusive
+2025-04-04 00:50:31,841 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:50:31,841 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 00:52:03,478 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:52:03,537 - INFO - 模型预热完成
+2025-04-04 00:52:03,537 - INFO - 服务启动完成
+2025-04-04 00:52:25,146 - ERROR - 预测失败: unhashable type: 'numpy.ndarray'
+2025-04-04 00:54:05,027 - INFO - 服务已关闭
+2025-04-04 00:54:11,698 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:54:11,699 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 00:55:50,516 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 00:55:50,576 - INFO - 模型预热完成
+2025-04-04 00:55:50,576 - INFO - 服务启动完成
+2025-04-04 00:56:07,623 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='1')
+2025-04-04 01:02:02,399 - ERROR - 下载失败: Session is closed
+2025-04-04 01:02:37,295 - ERROR - 下载失败: Session is closed
+2025-04-04 01:06:32,590 - INFO - 服务已关闭
+2025-04-04 01:06:39,101 - INFO - ✅ 模型加载成功 (尝试 1/3)
+2025-04-04 01:06:39,101 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 01:08:15,137 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:08:15,197 - INFO - 模型预热完成
+2025-04-04 01:08:15,197 - INFO - 服务启动完成
+2025-04-04 01:08:26,024 - INFO - 已撤回消息 456014153
+2025-04-04 01:08:50,089 - INFO - 已撤回消息 1160547862
+2025-04-04 01:09:50,694 - INFO - 服务已关闭
+2025-04-04 01:09:57,389 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:09:57,452 - INFO - 模型预热完成
+2025-04-04 01:09:57,452 - INFO - 服务启动完成
+2025-04-04 01:10:00,547 - INFO - 已撤回消息 1134707380
+2025-04-04 01:10:30,449 - INFO - 已撤回消息 1564493399
+2025-04-04 01:10:51,725 - INFO - 服务已关闭
+2025-04-04 01:10:58,284 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:10:58,344 - INFO - 模型预热完成
+2025-04-04 01:10:58,344 - INFO - 服务启动完成
+2025-04-04 01:11:02,076 - INFO - 已撤回消息 1808005688
+2025-04-04 01:12:56,341 - INFO - 服务已关闭
+2025-04-04 01:13:03,009 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:13:03,068 - INFO - 模型预热完成
+2025-04-04 01:13:03,068 - INFO - 服务启动完成
+2025-04-04 01:13:06,954 - INFO - 已撤回消息 700606452
+2025-04-04 01:13:22,974 - INFO - 已撤回消息 1972750479
+2025-04-04 01:13:27,685 - INFO - 已撤回消息 1440955850
+2025-04-04 01:14:01,268 - INFO - 服务已关闭
+2025-04-04 01:14:08,453 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:14:08,509 - INFO - 模型预热完成
+2025-04-04 01:14:08,509 - INFO - 服务启动完成
+2025-04-04 01:14:14,457 - INFO - 已撤回消息 89581895
+2025-04-04 01:14:23,963 - INFO - 服务已关闭
+2025-04-04 01:14:37,124 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:14:37,180 - INFO - 模型预热完成
+2025-04-04 01:14:37,180 - INFO - 服务启动完成
+2025-04-04 01:14:50,685 - INFO - 已撤回消息 1835553805
+2025-04-04 01:14:58,095 - INFO - 已撤回消息 1883615814
+2025-04-04 01:15:06,919 - INFO - 已撤回消息 1083771085
+2025-04-04 01:15:37,002 - INFO - 服务已关闭
+2025-04-04 01:15:43,669 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:15:43,725 - INFO - 模型预热完成
+2025-04-04 01:15:43,726 - INFO - 服务启动完成
+2025-04-04 01:15:50,936 - INFO - 已撤回消息 970692971
+2025-04-04 01:15:57,266 - INFO - 已撤回消息 1880762726
+2025-04-04 01:17:29,630 - INFO - 已撤回消息 100868795
+2025-04-04 01:19:09,589 - INFO - 服务已关闭
+2025-04-04 01:19:16,191 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:19:16,250 - INFO - 模型预热完成
+2025-04-04 01:19:16,250 - INFO - 服务启动完成
+2025-04-04 01:19:48,881 - INFO - 服务已关闭
+2025-04-04 01:19:55,525 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:19:55,588 - INFO - 模型预热完成
+2025-04-04 01:19:55,588 - INFO - 服务启动完成
+2025-04-04 01:24:26,094 - INFO - 服务已关闭
+2025-04-04 01:24:33,219 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:24:33,277 - INFO - 模型预热完成
+2025-04-04 01:24:33,277 - INFO - 服务启动完成
+2025-04-04 01:24:40,863 - INFO - 已撤回消息 1992104697
+2025-04-04 01:24:43,878 - INFO - 已撤回消息 1316483520
+2025-04-04 01:25:47,220 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:25:47,276 - INFO - 模型预热完成
+2025-04-04 01:25:47,277 - INFO - 服务启动完成
+2025-04-04 01:25:58,012 - ERROR - 消息处理失败: name 'TEXT_BLACKLIST' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 30, in process
+    if await self._check_text_blacklist():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 57, in _check_text_blacklist
+    return any(banned_text in text for banned_text in TEXT_BLACKLIST)
+                                                      ^^^^^^^^^^^^^^
+NameError: name 'TEXT_BLACKLIST' is not defined
+2025-04-04 01:28:25,077 - INFO - 服务已关闭
+2025-04-04 01:28:31,860 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:28:31,917 - INFO - 模型预热完成
+2025-04-04 01:28:31,917 - INFO - 服务启动完成
+2025-04-04 01:29:12,656 - INFO - 服务已关闭
+2025-04-04 01:30:19,088 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 01:30:19,144 - INFO - 模型预热完成
+2025-04-04 01:30:19,145 - INFO - 服务启动完成
+2025-04-04 01:31:07,016 - INFO - 已撤回消息 996003137
+2025-04-04 01:32:27,440 - INFO - 已撤回消息 1364308039
+2025-04-04 01:34:44,005 - INFO - 已撤回消息 1791335740
+2025-04-04 01:34:54,627 - INFO - 已撤回消息 1395239385
+2025-04-04 04:18:34,953 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 04:18:36,343 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 04:18:37,739 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 04:18:37,740 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 04:19:48,616 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 04:19:48,725 - INFO - 模型预热完成
+2025-04-04 04:19:48,725 - INFO - 服务启动完成
+2025-04-04 04:20:11,029 - INFO - 已撤回消息 382986992
+2025-04-04 04:20:37,019 - INFO - 已撤回消息 413691793
+2025-04-04 04:20:45,144 - INFO - 已撤回消息 2116098168
+2025-04-04 04:23:49,823 - INFO - 已撤回消息 88773503
+2025-04-04 04:25:11,537 - INFO - 已撤回消息 1321507475
+2025-04-04 04:25:11,689 - INFO - 已撤回消息 1182534200
+2025-04-04 04:30:16,472 - INFO - 服务已关闭
+2025-04-04 04:30:28,732 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 04:30:28,865 - INFO - 模型预热完成
+2025-04-04 04:30:28,865 - INFO - 服务启动完成
+2025-04-04 04:30:57,795 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='1')
+2025-04-04 04:34:27,060 - INFO - 服务已关闭
+2025-04-04 04:34:35,050 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 04:34:35,191 - INFO - 模型预热完成
+2025-04-04 04:34:35,193 - INFO - 服务启动完成
+2025-04-04 11:48:22,713 - INFO - 服务已关闭
+2025-04-04 11:48:36,065 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 11:48:37,094 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 11:48:38,120 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 11:48:38,121 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 11:50:32,138 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 11:50:33,159 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 11:50:34,172 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 11:50:34,174 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 11:53:12,345 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 11:53:14,062 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 11:53:15,786 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 11:53:15,786 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 11:54:53,690 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 11:54:55,544 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 11:54:57,163 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 11:54:57,163 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 11:57:40,687 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 11:57:40,858 - INFO - 模型预热完成
+2025-04-04 11:57:40,862 - INFO - 服务启动完成
+2025-04-04 12:03:27,680 - INFO - 已撤回消息 658729086
+2025-04-04 12:04:51,428 - INFO - 已撤回消息 1849499589
+2025-04-04 12:06:03,212 - INFO - 已撤回消息 109866147
+2025-04-04 12:08:23,864 - INFO - 服务已关闭
+2025-04-04 12:08:39,510 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 12:08:39,769 - INFO - 模型预热完成
+2025-04-04 12:08:39,770 - INFO - 服务启动完成
+2025-04-04 12:10:28,113 - INFO - 已撤回消息 882510210
+2025-04-04 12:10:47,576 - INFO - 服务已关闭
+2025-04-04 12:11:25,606 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 12:11:25,804 - INFO - 模型预热完成
+2025-04-04 12:11:25,805 - INFO - 服务启动完成
+2025-04-04 12:12:02,698 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='1')
+2025-04-04 12:12:46,367 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='2')
+2025-04-04 12:30:14,561 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='3')
+2025-04-04 12:37:52,079 - ERROR - 消息处理失败: name 'SYTEM_FACE_BLACKLIST' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 39, in process
+    if await self._check_face_blacklist():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 68, in _check_face_blacklist
+    if face_id in SYTEM_FACE_BLACKLIST:
+                  ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'SYTEM_FACE_BLACKLIST' is not defined. Did you mean: 'SYSTEM_FACE_BLACKLIST'?
+2025-04-04 12:37:57,738 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='4')
+2025-04-04 12:39:32,779 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='6')
+2025-04-04 12:39:41,374 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='7')
+2025-04-04 12:40:08,099 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='8')
+2025-04-04 12:40:46,359 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='9')
+2025-04-04 12:41:28,076 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='10')
+2025-04-04 12:42:33,546 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='11')
+2025-04-04 13:05:11,080 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='12')
+2025-04-04 13:06:35,054 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='13')
+2025-04-04 13:06:41,637 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='14')
+2025-04-04 13:07:29,804 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='15')
+2025-04-04 13:09:18,680 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='16')
+2025-04-04 13:09:20,057 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='17')
+2025-04-04 13:31:27,534 - INFO - 服务已关闭
+2025-04-04 13:31:34,891 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 13:31:36,275 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 13:31:37,657 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 640, 640, 3), found shape=(1, 224, 224, 3)
+2025-04-04 13:31:37,658 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 13:32:23,069 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 13:32:24,083 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 13:32:25,097 - ERROR - 模型加载失败: Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 13:32:25,098 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 13:40:19,502 - ERROR - 模型加载失败: cannot import name 'experimental' from 'tensorflow.keras.mixed_precision' (C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\_tf_keras\keras\mixed_precision\__init__.py)
+2025-04-04 13:40:20,512 - ERROR - 模型加载失败: cannot import name 'experimental' from 'tensorflow.keras.mixed_precision' (C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\_tf_keras\keras\mixed_precision\__init__.py)
+2025-04-04 13:40:21,525 - ERROR - 模型加载失败: cannot import name 'experimental' from 'tensorflow.keras.mixed_precision' (C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\_tf_keras\keras\mixed_precision\__init__.py)
+2025-04-04 13:40:21,525 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 13:42:42,254 - ERROR - 模型加载失败 (尝试 1/3): cannot import name 'experimental' from 'tensorflow.keras.mixed_precision' (C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\_tf_keras\keras\mixed_precision\__init__.py)
+2025-04-04 13:42:43,258 - ERROR - 模型加载失败 (尝试 2/3): cannot import name 'experimental' from 'tensorflow.keras.mixed_precision' (C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\_tf_keras\keras\mixed_precision\__init__.py)
+2025-04-04 13:42:44,271 - ERROR - 模型加载失败 (尝试 3/3): cannot import name 'experimental' from 'tensorflow.keras.mixed_precision' (C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\_tf_keras\keras\mixed_precision\__init__.py)
+2025-04-04 13:42:44,271 - CRITICAL - 启动失败: 模型加载失败，请检查: models\v1.h5
+2025-04-04 13:44:43,485 - ERROR - 模型加载失败 (尝试 1/3): 'function'
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 77, in _load_model
+    self._model = tf.keras.models.load_model(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\saving\saving_api.py", line 196, in load_model
+    return legacy_h5_format.load_model_from_hdf5(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py", line 133, in load_model_from_hdf5
+    model = saving_utils.model_from_config(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 88, in model_from_config
+    return serialization.deserialize_keras_object(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\serialization.py", line 495, in deserialize_keras_object
+    deserialized_obj = cls.from_config(
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\model.py", line 587, in from_config
+    return functional_from_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\functional.py", line 557, in functional_from_config
+    process_layer(layer_data)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\functional.py", line 520, in process_layer
+    layer = saving_utils.model_from_config(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 88, in model_from_config
+    return serialization.deserialize_keras_object(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\serialization.py", line 495, in deserialize_keras_object
+    deserialized_obj = cls.from_config(
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\layers\core\lambda_layer.py", line 184, in from_config
+    fn_config = config["function"]
+                ~~~~~~^^^^^^^^^^^^
+KeyError: 'function'
+2025-04-04 13:44:44,563 - ERROR - 模型加载失败 (尝试 2/3): 'function'
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 77, in _load_model
+    self._model = tf.keras.models.load_model(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\saving\saving_api.py", line 196, in load_model
+    return legacy_h5_format.load_model_from_hdf5(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py", line 133, in load_model_from_hdf5
+    model = saving_utils.model_from_config(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 88, in model_from_config
+    return serialization.deserialize_keras_object(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\serialization.py", line 495, in deserialize_keras_object
+    deserialized_obj = cls.from_config(
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\model.py", line 587, in from_config
+    return functional_from_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\functional.py", line 557, in functional_from_config
+    process_layer(layer_data)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\functional.py", line 520, in process_layer
+    layer = saving_utils.model_from_config(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 88, in model_from_config
+    return serialization.deserialize_keras_object(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\serialization.py", line 495, in deserialize_keras_object
+    deserialized_obj = cls.from_config(
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\layers\core\lambda_layer.py", line 184, in from_config
+    fn_config = config["function"]
+                ~~~~~~^^^^^^^^^^^^
+KeyError: 'function'
+2025-04-04 13:44:45,584 - ERROR - 模型加载失败 (尝试 3/3): 'function'
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 77, in _load_model
+    self._model = tf.keras.models.load_model(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\saving\saving_api.py", line 196, in load_model
+    return legacy_h5_format.load_model_from_hdf5(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py", line 133, in load_model_from_hdf5
+    model = saving_utils.model_from_config(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 88, in model_from_config
+    return serialization.deserialize_keras_object(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\serialization.py", line 495, in deserialize_keras_object
+    deserialized_obj = cls.from_config(
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\model.py", line 587, in from_config
+    return functional_from_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\functional.py", line 557, in functional_from_config
+    process_layer(layer_data)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\models\functional.py", line 520, in process_layer
+    layer = saving_utils.model_from_config(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 88, in model_from_config
+    return serialization.deserialize_keras_object(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\legacy\saving\serialization.py", line 495, in deserialize_keras_object
+    deserialized_obj = cls.from_config(
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\layers\core\lambda_layer.py", line 184, in from_config
+    fn_config = config["function"]
+                ~~~~~~^^^^^^^^^^^^
+KeyError: 'function'
+2025-04-04 13:44:45,585 - CRITICAL - 启动失败: 模型加载失败，请检查: models\v1.h5
+2025-04-04 13:46:30,150 - ERROR - 加载失败 (尝试 1/3): name 'YourCustomLayerClass' is not defined
+2025-04-04 13:46:31,159 - ERROR - 加载失败 (尝试 2/3): name 'YourCustomLayerClass' is not defined
+2025-04-04 13:46:32,175 - ERROR - 加载失败 (尝试 3/3): name 'YourCustomLayerClass' is not defined
+2025-04-04 13:46:32,176 - CRITICAL - 启动失败: 模型加载失败，请检查文件完整性: models\v1.h5
+2025-04-04 13:46:57,941 - ERROR - 加载失败 (尝试 1/3): Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 13:46:59,060 - ERROR - 加载失败 (尝试 2/3): Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 13:47:00,074 - ERROR - 加载失败 (尝试 3/3): Unknown layer: 'Cast'. Please ensure you are using a `keras.utils.custom_object_scope` and that this object is included in the scope. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details.
+2025-04-04 13:47:00,076 - CRITICAL - 启动失败: 模型加载失败，请检查文件完整性: models\v1.h5
+2025-04-04 13:50:16,961 - INFO - 模型加载成功
+2025-04-04 13:50:17,009 - INFO - 模型预热完成
+2025-04-04 13:50:17,009 - INFO - 服务启动完成
+2025-04-04 13:50:51,283 - ERROR - 图片处理失败: name 'ImagePreprocessor' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 140, in preprocess_image
+    processed = ImagePreprocessor._smart_resize(img_array, target_size, mode)
+                ^^^^^^^^^^^^^^^^^
+NameError: name 'ImagePreprocessor' is not defined. Did you mean: 'ImageProcessor'?
+2025-04-04 13:51:13,129 - ERROR - 图片处理失败: name 'ImagePreprocessor' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\utils\image_processing.py", line 140, in preprocess_image
+    processed = ImagePreprocessor._smart_resize(img_array, target_size, mode)
+                ^^^^^^^^^^^^^^^^^
+NameError: name 'ImagePreprocessor' is not defined. Did you mean: 'ImageProcessor'?
+2025-04-04 13:53:54,034 - INFO - 服务已关闭
+2025-04-04 13:53:59,471 - INFO - 模型加载成功
+2025-04-04 13:53:59,514 - INFO - 模型预热完成
+2025-04-04 13:53:59,515 - INFO - 服务启动完成
+2025-04-04 13:54:08,531 - ERROR - 预测失败: only length-1 arrays can be converted to Python scalars
+2025-04-04 13:54:36,842 - ERROR - 预测失败: only length-1 arrays can be converted to Python scalars
+2025-04-04 13:55:40,454 - INFO - 服务已关闭
+2025-04-04 13:55:45,702 - INFO - 模型加载成功
+2025-04-04 13:55:45,756 - INFO - 模型预热完成
+2025-04-04 13:55:45,756 - INFO - 服务启动完成
+2025-04-04 13:55:51,832 - ERROR - 预测失败: only length-1 arrays can be converted to Python scalars
+2025-04-04 13:58:45,200 - INFO - 服务已关闭
+2025-04-04 13:58:50,595 - INFO - 模型加载成功
+2025-04-04 13:58:50,640 - INFO - 模型预热完成
+2025-04-04 13:58:50,640 - INFO - 服务启动完成
+2025-04-04 14:00:02,746 - INFO - 服务已关闭
+2025-04-04 14:00:08,459 - INFO - 模型加载成功
+2025-04-04 14:00:08,506 - INFO - 模型预热完成
+2025-04-04 14:00:08,507 - INFO - 服务启动完成
+2025-04-04 14:00:42,487 - INFO - 服务已关闭
+2025-04-04 14:00:47,890 - INFO - 模型加载成功
+2025-04-04 14:00:47,934 - INFO - 模型预热完成
+2025-04-04 14:00:47,934 - INFO - 服务启动完成
+2025-04-04 14:00:53,610 - INFO - 已撤回消息 1963868992
+2025-04-04 14:01:17,941 - INFO - 服务已关闭
+2025-04-04 14:01:23,176 - INFO - 模型加载成功
+2025-04-04 14:01:23,226 - INFO - 模型预热完成
+2025-04-04 14:01:23,226 - INFO - 服务启动完成
+2025-04-04 14:01:32,725 - INFO - 已撤回消息 1649041072
+2025-04-04 14:01:40,758 - INFO - 已撤回消息 442224056
+2025-04-04 14:01:48,212 - INFO - 已撤回消息 584347024
+2025-04-04 14:01:58,310 - INFO - 已撤回消息 202773596
+2025-04-04 14:02:34,899 - INFO - 已撤回消息 1143041594
+2025-04-04 14:02:55,781 - INFO - 已撤回消息 67376343
+2025-04-04 14:07:04,042 - INFO - 服务已关闭
+2025-04-04 14:07:09,329 - INFO - 模型加载成功
+2025-04-04 14:07:09,331 - CRITICAL - 启动失败: 'ImageProcessor' object has no attribute 'model'
+2025-04-04 14:07:25,243 - INFO - 模型加载成功
+2025-04-04 14:07:25,288 - INFO - 模型预热完成
+2025-04-04 14:07:25,288 - INFO - 服务启动完成
+2025-04-04 14:07:30,399 - ERROR - 预测值转换失败: can only convert an array of size 1 to a Python scalar
+2025-04-04 14:08:51,106 - INFO - 服务已关闭
+2025-04-04 14:08:56,389 - INFO - 模型加载成功
+2025-04-04 14:08:56,435 - INFO - 模型预热完成
+2025-04-04 14:08:56,435 - INFO - 服务启动完成
+2025-04-04 14:09:03,093 - DEBUG - 原始预测结果 shape: (1, 224, 224, 3), 值: [[[[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.99215686 0.99607843 1.        ]
+   [0.99607843 0.99215686 1.        ]
+   [0.99607843 0.99607843 1.        ]
+   ...
+   [1.         0.9372549  0.8784314 ]
+   [1.         0.9411765  0.88235295]
+   [1.         0.9411765  0.88235295]]
+
+  ...
+
+  [[1.         1.         1.        ]
+   [1.         1.         1.        ]
+   [1.         1.         1.        ]
+   ...
+   [0.99607843 0.99607843 0.99607843]
+   [0.99607843 0.99607843 0.99607843]
+   [0.99607843 0.99607843 0.99607843]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]]]
+2025-04-04 14:09:03,212 - INFO - 已撤回消息 687435174
+2025-04-04 14:09:19,431 - DEBUG - 原始预测结果 shape: (1, 224, 224, 3), 值: [[[[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  ...
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]]]
+2025-04-04 14:09:19,558 - INFO - 已撤回消息 624397841
+2025-04-04 14:09:51,701 - DEBUG - 原始预测结果 shape: (1, 224, 224, 3), 值: [[[[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  ...
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]]]
+2025-04-04 14:09:51,827 - INFO - 已撤回消息 1138842323
+2025-04-04 14:16:16,618 - DEBUG - 原始预测结果 shape: (1, 224, 224, 3), 值: [[[[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.99215686 0.99607843 1.        ]
+   [0.99607843 0.99215686 1.        ]
+   [0.99607843 0.99607843 1.        ]
+   ...
+   [1.         0.9372549  0.8784314 ]
+   [1.         0.9411765  0.88235295]
+   [1.         0.9411765  0.88235295]]
+
+  ...
+
+  [[1.         1.         1.        ]
+   [1.         1.         1.        ]
+   [1.         1.         1.        ]
+   ...
+   [0.99607843 0.99607843 0.99607843]
+   [0.99607843 0.99607843 0.99607843]
+   [0.99607843 0.99607843 0.99607843]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]]]
+2025-04-04 14:16:16,744 - INFO - 已撤回消息 1315318138
+2025-04-04 14:16:25,238 - DEBUG - 原始预测结果 shape: (1, 224, 224, 3), 值: [[[[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  ...
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]
+
+  [[0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   ...
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]
+   [0.44705883 0.44705883 0.44705883]]]]
+2025-04-04 14:16:25,370 - INFO - 已撤回消息 1363504856
+2025-04-04 14:25:06,212 - INFO - 服务已关闭
+2025-04-04 14:26:30,004 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 14:26:30,132 - INFO - 模型预热完成
+2025-04-04 14:26:30,132 - INFO - 服务启动完成
+2025-04-04 14:26:56,050 - INFO - 已撤回消息 507249005
+2025-04-04 14:27:08,554 - INFO - 已撤回消息 1789766647
+2025-04-04 14:27:55,303 - INFO - 已撤回消息 1138329043
+2025-04-04 14:28:25,379 - INFO - 已撤回消息 4977023
+2025-04-04 14:28:49,257 - INFO - 服务已关闭
+2025-04-04 14:28:56,418 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 14:28:56,532 - INFO - 模型预热完成
+2025-04-04 14:28:56,534 - INFO - 服务启动完成
+2025-04-04 14:29:07,418 - INFO - 已撤回消息 69457916
+2025-04-04 14:29:12,253 - INFO - 已撤回消息 1243009819
+2025-04-04 14:29:21,354 - INFO - 已撤回消息 1951011937
+2025-04-04 14:29:59,154 - INFO - 已撤回消息 1839653002
+2025-04-04 14:30:19,272 - INFO - 服务已关闭
+2025-04-04 14:30:26,359 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 14:30:26,470 - INFO - 模型预热完成
+2025-04-04 14:30:26,471 - INFO - 服务启动完成
+2025-04-04 14:30:36,760 - INFO - 已撤回消息 1293505073
+2025-04-04 14:30:47,937 - INFO - 已撤回消息 1299034997
+2025-04-04 14:31:13,370 - INFO - 已撤回消息 1460094850
+2025-04-04 14:37:04,307 - ERROR - 模型输出形状异常: (None, 224, 224, 3)
+2025-04-04 14:37:04,308 - ERROR - 模型加载失败 (尝试 1/3): 模型输出层结构不符合要求
+2025-04-04 14:37:05,316 - ERROR - 模型输出形状异常: (None, 224, 224, 3)
+2025-04-04 14:37:05,316 - ERROR - 模型加载失败 (尝试 2/3): 模型输出层结构不符合要求
+2025-04-04 14:37:06,331 - ERROR - 模型输出形状异常: (None, 224, 224, 3)
+2025-04-04 14:37:06,331 - ERROR - 模型加载失败 (尝试 3/3): 模型输出层结构不符合要求
+2025-04-04 14:37:06,332 - CRITICAL - 启动失败: 无法加载模型: models\v1.h5
+2025-04-04 14:54:34,471 - ERROR - 模型加载失败 (尝试 1/3): The layer sequential has never been called and thus has no defined output.
+2025-04-04 14:54:35,479 - ERROR - 模型加载失败 (尝试 2/3): The layer sequential has never been called and thus has no defined output.
+2025-04-04 14:54:36,496 - ERROR - 模型加载失败 (尝试 3/3): The layer sequential has never been called and thus has no defined output.
+2025-04-04 14:54:36,496 - CRITICAL - 启动失败: 无法修复模型: models\v1.h5
+2025-04-04 20:10:35,263 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = 'final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:10:36,271 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = 'final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:10:37,285 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = 'final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:10:37,285 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 20:11:22,842 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = '/models/final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:11:23,856 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = '/models/final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:11:24,872 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = '/models/final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:11:24,872 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 20:13:16,161 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = '../models/final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:13:17,175 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = '../models/final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:13:18,184 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = '../models/final_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:13:18,184 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 20:16:04,082 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models\v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:16:05,086 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models\v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:16:06,100 - ERROR - 模型加载失败: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models\v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-04-04 20:16:06,100 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 20:16:29,671 - ERROR - 模型加载失败: 'NoneType' object has no attribute 'predict'
+2025-04-04 20:16:31,040 - ERROR - 模型加载失败: 'NoneType' object has no attribute 'predict'
+2025-04-04 20:16:32,389 - ERROR - 模型加载失败: 'NoneType' object has no attribute 'predict'
+2025-04-04 20:16:32,389 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 20:20:15,965 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 640, 640, 3)
+2025-04-04 20:20:17,352 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 640, 640, 3)
+2025-04-04 20:20:18,735 - ERROR - 模型加载失败: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 640, 640, 3)
+2025-04-04 20:20:18,735 - CRITICAL - 启动失败: 模型加载失败
+2025-04-04 20:21:38,132 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 20:21:38,279 - INFO - 模型预热完成
+2025-04-04 20:21:38,280 - INFO - 服务启动完成
+2025-04-04 20:22:56,741 - INFO - 已撤回消息 1374062619
+2025-04-04 20:23:08,988 - INFO - 已撤回消息 2014650701
+2025-04-04 20:23:17,001 - INFO - 已撤回消息 18093427
+2025-04-04 20:23:21,539 - INFO - 已撤回消息 745804829
+2025-04-04 20:23:35,025 - INFO - 已撤回消息 983143446
+2025-04-04 20:40:11,678 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='6')
+2025-04-04 20:51:33,244 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='7')
+2025-04-04 21:01:33,337 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='8')
+2025-04-04 21:01:44,985 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='9')
+2025-04-04 21:02:00,672 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='10')
+2025-04-04 21:02:21,535 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='11')
+2025-04-04 21:04:54,919 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='12')
+2025-04-04 21:06:30,068 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='13')
+2025-04-04 21:07:09,150 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='14')
+2025-04-04 21:07:44,960 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='15')
+2025-04-04 21:13:02,106 - ERROR - 消息处理失败: name 'SYTEM_FACE_BLACKLIST' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 39, in process
+    if await self._check_face_blacklist():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 69, in _check_face_blacklist
+    if face_id in SYTEM_FACE_BLACKLIST:
+                  ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'SYTEM_FACE_BLACKLIST' is not defined. Did you mean: 'SYSTEM_FACE_BLACKLIST'?
+2025-04-04 21:24:22,759 - ERROR - 消息处理失败: name 'SYTEM_FACE_BLACKLIST' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 39, in process
+    if await self._check_face_blacklist():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 69, in _check_face_blacklist
+    if face_id in SYTEM_FACE_BLACKLIST:
+                  ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'SYTEM_FACE_BLACKLIST' is not defined. Did you mean: 'SYSTEM_FACE_BLACKLIST'?
+2025-04-04 21:24:25,927 - ERROR - 消息处理失败: name 'SYTEM_FACE_BLACKLIST' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 39, in process
+    if await self._check_face_blacklist():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 69, in _check_face_blacklist
+    if face_id in SYTEM_FACE_BLACKLIST:
+                  ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'SYTEM_FACE_BLACKLIST' is not defined. Did you mean: 'SYSTEM_FACE_BLACKLIST'?
+2025-04-04 21:25:13,439 - ERROR - 消息处理失败: name 'SYTEM_FACE_BLACKLIST' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 39, in process
+    if await self._check_face_blacklist():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 69, in _check_face_blacklist
+    if face_id in SYTEM_FACE_BLACKLIST:
+                  ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'SYTEM_FACE_BLACKLIST' is not defined. Did you mean: 'SYSTEM_FACE_BLACKLIST'?
+2025-04-04 21:25:53,972 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='20')
+2025-04-04 21:26:00,634 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='21')
+2025-04-04 21:43:46,446 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='22')
+2025-04-04 21:58:16,147 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='23')
+2025-04-04 22:09:27,470 - INFO - 服务已关闭
+2025-04-04 22:09:34,751 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 22:09:34,907 - INFO - 模型预热完成
+2025-04-04 22:09:34,907 - INFO - 服务启动完成
+2025-04-04 22:09:52,119 - INFO - 已撤回消息 691490752
+2025-04-04 22:09:52,119 - ERROR - 消息处理失败: can only concatenate str (not "float") to str
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 57, in process
+    await self.bot.send(group_id=group_id, message="小猫猫评分"+prob)
+                                                   ~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "float") to str
+2025-04-04 22:10:25,530 - INFO - 服务已关闭
+2025-04-04 22:10:32,337 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 22:10:32,478 - INFO - 模型预热完成
+2025-04-04 22:10:32,478 - INFO - 服务启动完成
+2025-04-04 22:11:26,883 - INFO - 服务已关闭
+2025-04-04 22:11:59,929 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 22:12:00,080 - INFO - 模型预热完成
+2025-04-04 22:12:00,081 - INFO - 服务启动完成
+2025-04-04 22:12:06,019 - INFO - 已撤回消息 1694038452
+2025-04-04 22:12:06,019 - ERROR - 消息处理失败: Bot.send() missing 1 required positional argument: 'event'
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\project\public\yellowbean\bot.py", line 57, in process
+    await self.bot.send(group_id=group_id, message="小猫猫评分"+str(round(prob,2)))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Bot.send() missing 1 required positional argument: 'event'
+2025-04-04 22:16:46,382 - INFO - 服务已关闭
+2025-04-04 22:16:53,197 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 22:16:53,347 - INFO - 模型预热完成
+2025-04-04 22:16:53,348 - INFO - 服务启动完成
+2025-04-04 22:17:13,487 - INFO - 已撤回消息 562615217
+2025-04-04 22:17:21,047 - INFO - 已撤回消息 1067728286
+2025-04-04 22:17:31,165 - INFO - 已撤回消息 1744678012
+2025-04-04 22:18:21,926 - INFO - 已撤回消息 1291009001
+2025-04-04 22:18:29,600 - INFO - 已撤回消息 91572728
+2025-04-04 22:24:16,127 - INFO - 已撤回消息 1208925467
+2025-04-04 22:30:35,420 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='13')
+2025-04-04 22:30:54,748 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='14')
+2025-04-04 22:31:57,686 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='16')
+2025-04-04 22:32:39,078 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='18')
+2025-04-04 22:35:04,491 - INFO - 已撤回消息 1096358672
+2025-04-04 22:40:29,055 - INFO - 已撤回消息 1899191060
+2025-04-04 23:01:27,372 - INFO - 已撤回消息 343112844
+2025-04-04 23:39:43,614 - INFO - 服务已关闭
+2025-04-04 23:40:11,336 - INFO - 模型加载成功 (尝试 1/3)
+2025-04-04 23:40:11,483 - INFO - 模型预热完成
+2025-04-04 23:40:11,484 - INFO - 服务启动完成
+2025-04-04 23:40:45,281 - INFO - 已撤回消息 1693009557
+2025-04-04 23:42:54,149 - ERROR - 撤回失败: ActionFailed(status='failed', retcode=1200, data=None, message='Error: 消息撤回失败', wording='Error: 消息撤回失败', echo='3')
